@@ -67,7 +67,7 @@ a:hover {
   text-decoration: none;
 }
 
-.feature {
+.feature,.defi{
   border: 20px solid #F2F2F2;
 background-color: yellow;
 margin: 15px;
@@ -115,4 +115,15 @@ nav ul {
 #baseline a:hover {
   position: relative;
   top:1px;
+}
+
+#welcome{
+  background-color: #41A3C0;
+  text-align: center;
+  padding: 50px;
+  color: white;
+}
+
+#welcome h4{
+ font-size: 50px;
 }
